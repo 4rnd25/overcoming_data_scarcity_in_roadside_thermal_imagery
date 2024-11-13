@@ -1,0 +1,6 @@
+[submodule "context_module/Tracking/SORT"]
+	path = context_module/Tracking/SORT
+	url = git@github.com:abewley/sort.git
+[submodule "yolov7"]
+	path = yolov7
+	url = git@github.com:WongKinYiu/yolov7.git
