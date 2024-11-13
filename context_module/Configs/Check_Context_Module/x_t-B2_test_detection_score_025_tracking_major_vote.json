@@ -1,6 +1,6 @@
 {
     "input_config": {
-        "input_path": "/data/Arnd/paper_weakly_supervised_viewpoint_adaption/training_data/x_t-B2_all_Videos/"
+        "input_path": "/data/training_data/x_t-B2_all_Videos/"
     },
 
     "detection_config": {
@@ -31,18 +31,18 @@
 
     "label_creator_config": {
         "output_format": "XML",
-        "output_path": "/data/Arnd/paper_weakly_supervised_viewpoint_adaption/Experiments_New/Check_Context_Module/x_t-B2_test_detection_score_025_tracking_major_vote/labels",
+        "output_path": "/data/Experiments_New/Check_Context_Module/x_t-B2_test_detection_score_025_tracking_major_vote/labels",
         "add_score": true,
         "label_every_nth_frame": 15
     },
 
     "plot_config": {
-        "output_path": "/data/Arnd/paper_weakly_supervised_viewpoint_adaption/Experiments_New/Check_Context_Module/x_t-B2_test_detection_score_025_tracking_major_vote/images",
+        "output_path": "/data/Experiments_New/Check_Context_Module/x_t-B2_test_detection_score_025_tracking_major_vote/images",
         "show_output": false
     },
 
     "stats_config": {
         "save_stats": true,
-        "save_stats_path": "/data/Arnd/paper_weakly_supervised_viewpoint_adaption/Experiments_New/Check_Context_Module/x_t-B2_test_detection_score_025_tracking_major_vote/stats"
+        "save_stats_path": "/data/Experiments_New/Check_Context_Module/x_t-B2_test_detection_score_025_tracking_major_vote/stats"
     }
 }

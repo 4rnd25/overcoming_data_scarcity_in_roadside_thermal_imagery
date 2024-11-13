@@ -5,7 +5,6 @@ Created on Feb 05 2024 10:11
 """
 import math
 
-
 class AnnotationObject:
     def __init__(self):
         self.frame_nums = []

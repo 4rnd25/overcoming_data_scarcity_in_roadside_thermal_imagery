@@ -7,8 +7,8 @@ import os
 
 import numpy as np
 
-from Pseudo_Label_Creation.Input_Handling.video_file_handler import VideoFileHandler
-from Pseudo_Label_Creation.Input_Handling.inputHandler import InputHandler
+from context_module.Input_Handling.video_file_handler import VideoFileHandler
+from context_module.Input_Handling.inputHandler import InputHandler
 
 # Create class VideoFolderHandler
 class VideoFolderHandler(InputHandler):
