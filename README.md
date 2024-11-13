@@ -18,7 +18,7 @@ Link to paper:
 This is the official repository for the paper: Overcoming data scarcity in roadside thermal imagery: A new dataset and weakly supervised incremental learning framework. As reference to this code please cite the paper. 
 
 ## Installation
-This code was build using python 3.11. The requirements.txt file includes all necessary packages. Additionally this repo should be part of the PYTHONPATH.
+This code was build using python 3.11. The requirements.txt file includes all necessary packages. Additionally this repo should be part of the PYTHONPATH. Moreover it is important to clone with --recurse-submodules to get also the modified yolov7 and the SORT code.
 
 
 ## Data
