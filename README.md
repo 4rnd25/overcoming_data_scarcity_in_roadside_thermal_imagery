@@ -62,5 +62,5 @@ This repositroy includes the following third-party submodules: <br>
   Changed files: -
   Added files: train_with_teacher_and_context_module.py, train_with_teacher_context_module_and_remember_module.py, train_with_teacher_context_module_and_remember_module_mixed_val.py, test_with_remember_module.py, yolov7/utils/loss.py yolov7/utils/general.py yolov7/utils/datasets.py, yolov7/data/hyp.scratch.tiny_therm_no_aug.yaml, yolov7/cfg/training/yolov7_cls_7_IDetect.yaml, yolov7/data/hyp.scratch.tiny_therm_no_aug.yaml, yolov7/data/hyp.scratch.costum_therm_no_aug.yaml
 
-##License
+## License
 This repositroy is released under the GPL License (refer to the LICENSE file for details). 
