@@ -1,8 +1,29 @@
 # Overcoming data scarcity in roadside thermal imagery
 
-Repository for paper: Overcoming data scarcity in roadside thermal imagery: A new dataset and weakly supervised incremental learning framework. <br>
+This repository contains the code related to the paper:
 
-Link to paper: 
+Overcoming Data Scarcity in Roadside Thermal Imagery: A New Dataset and Weakly Supervised Incremental Learning Framework
+
+📄 Paper link: https://doi.org/10.3390/s25072340 
+📂 Dataset: https://doi.org/10.17632/66grzddyb2.1
+
+📌 Citation
+If you use this code, please cite the paper:
+
+```bibtex
+@Article{PETTIRSCH2025113334,
+  author  = {Pettirsch, Arnd and Garcia-Hernandez, Alvaro},
+  title   = {Overcoming Data Scarcity in Roadside Thermal Imagery: A New Dataset and Weakly Supervised Incremental Learning Framework},
+  journal = {Sensors},
+  volume = {25},
+  year    = {2025},
+  number = {7},
+  issn    = {1424-8220},
+  ARTICLE-NUMBER   = {2340},
+  doi     = {https://doi.org/10.3390/s25072340},
+  url     = {https://www.mdpi.com/1424-8220/25/7/2340}
+}
+```
 
 ## Table of Contents
 1. [Introduction](#introduction)
