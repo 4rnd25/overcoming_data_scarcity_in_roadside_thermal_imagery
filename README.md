@@ -11,7 +11,7 @@ Overcoming Data Scarcity in Roadside Thermal Imagery: A New Dataset and Weakly S
 If you use this code, please cite the paper:
 
 ```bibtex
-@Article{PETTIRSCH2025113334,
+@Article{PETTIRSCH20252340,
   author  = {Pettirsch, Arnd and Garcia-Hernandez, Alvaro},
   title   = {Overcoming Data Scarcity in Roadside Thermal Imagery: A New Dataset and Weakly Supervised Incremental Learning Framework},
   journal = {Sensors},
